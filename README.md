@@ -126,10 +126,8 @@ public class HelloController {
 ### application.properties:
 
  server.port=8081
+## OUTPUT:
+<img width="950" height="283" alt="{0292D54E-CBF9-4DFB-A6E7-02D7A6CD58A3}" src="https://github.com/user-attachments/assets/184dbe3c-5baa-4633-a6ec-3cfefe081a3c" />
 
-
-
-
-Output:
-
-
+## RESULT:
+Thus,the simple web serever using boot that can handle basic HTTP requests and returm appropriate responses through RESTful endpoints implemented and executed successfully.
